@@ -19,8 +19,7 @@ Follow these steps to set up the Bodhiment Mnemonics Generator on your local mac
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <repository-url>](https://github.com/Humbledot00/BodhiMent.git
 
    ```
 2. **Run the Application**
